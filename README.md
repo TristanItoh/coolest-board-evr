@@ -2,7 +2,7 @@
 The coolest board evr is... the coolest board ever. There is nothing to back this claim. It's a 4 key macropad with KMK firmware.
 
 ## CAD
-Made out of two pieces, a bottom and top. Fits together using M3 Bolts (I think)
+Made out of two pieces, a bottom and top. Fits together using M3 Bolts (I think). Green rectangle is the PCB
 
 ![Screenshot 2025-06-06 163113](https://github.com/user-attachments/assets/6d35c959-942d-4a7e-abdc-0e40648d4b7a)
 
